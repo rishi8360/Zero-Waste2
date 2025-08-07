@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222268405229",
+    "project_id": "zero-waste-f506c",
+    "storage_bucket": "zero-waste-f506c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222268405229:android:7513cb3cc19a6da3ae23e4",
+        "android_client_info": {
+          "package_name": "com.example.zero_waste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQbbrpWaBduITO9jYxmInd4aGbDMHqnmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
